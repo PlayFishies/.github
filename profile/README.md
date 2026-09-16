@@ -16,10 +16,6 @@
   <a href="https://discord.gg/fishies">Discord</a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PlayFishies/.github/main/profile/assets/play-screenshot-2-tank.png" width="680" alt="A Fishies tank" />
-</p>
-
 ---
 
 Raise fish, decorate your tank, and visit anyone's aquarium at `fishies.lol/@username`.
