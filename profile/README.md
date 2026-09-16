@@ -9,6 +9,10 @@
 <p align="center"><b>A living social aquarium for the web.</b></p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/PlayFishies/.github/main/profile/assets/fishies-tank.png" width="900" alt="Fish swimming among plants and corals in a Fishies aquarium" />
+</p>
+
+<p align="center">
   <a href="https://fishies.lol">Play at fishies.lol</a>
   ·
   <a href="https://github.com/PlayFishies/feedback/issues/new/choose">Report a bug</a>
