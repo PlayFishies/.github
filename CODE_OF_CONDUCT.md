@@ -6,7 +6,7 @@ Fishies is a calm place. The same goes for everything in this organization.
 
 - Be kind and assume good faith.
 - Keep reports and comments on the subject: the game, the bug, the idea.
-- Respect a "no" — not every request fits the game we are building.
+- Respect a "no" · not every request fits the game we are building.
 
 ## Not allowed
 

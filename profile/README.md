@@ -39,10 +39,9 @@ Fishies runs in the browser and is coming to desktop, mobile and Steam.
 | 🎮 itch.io | [playfishies](https://playfishies.itch.io/fishies) |
 | ✈️ Telegram | [PlayFishies](https://t.me/PlayFishies) |
 
-### About this organization
+### Tell us something
 
-Fishies itself is **closed source** — the game's code lives in a private repository.
-This organization is the public front door: feedback, issue tracking, press material and
-anything we do open up lives here.
+Found a bug, or want a fish we do not have yet?
+[Open an issue](https://github.com/PlayFishies/feedback/issues/new/choose) and we read it.
 
 <p align="center"><sub>Made with care under the waterline.</sub></p>

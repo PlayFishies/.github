@@ -5,5 +5,4 @@
 - **Account, billing or anything private?** Email <f@fishies.lol>.
 - **Just want to chat?** Join us on [Discord](https://discord.gg/fishies).
 
-Fishies is closed source; there is no public code repository to file issues against.
 Everything player-facing goes to [PlayFishies/feedback](https://github.com/PlayFishies/feedback).
