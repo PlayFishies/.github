@@ -36,6 +36,7 @@ Fishies runs in the browser and is coming to desktop, mobile and Steam.
 | 🐛 Bugs & ideas | [PlayFishies/feedback](https://github.com/PlayFishies/feedback/issues) |
 | 💬 Discord | [discord.gg/fishies](https://discord.gg/fishies) |
 | 📰 Patch notes | [fishies.lol/news/patch-notes](https://fishies.lol/news/patch-notes) |
+| 📷 Press kit | [PlayFishies/press-kit](https://github.com/PlayFishies/press-kit) |
 | 🐦 X | [@playfishies](https://x.com/playfishies) |
 | 📸 Instagram | [@playfishies](https://instagram.com/playfishies) |
 | 🎬 YouTube | [@playfishies](https://www.youtube.com/@playfishies) |
